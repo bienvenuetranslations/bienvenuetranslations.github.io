@@ -13035,8 +13035,11 @@ h4 a{
   height: 550px;
 }
 
-.hder-sec { }
-
+@media only screen and (max-width:750px) {
+  .ban-video{
+    margin-top: 90px;
+  }
+}
 
 
 
