@@ -13041,5 +13041,21 @@ h4 a{
   }
 }
 
+.title h1{
+  font-weight: 600;
+}
+
+.sec-title h1{
+  font-weight: 600;
+}
+
+.sec-title2{
+  text-align: center;
+}
+
+.sec-title2 h1{
+  font-weight: 600;
+}
+
 
 
