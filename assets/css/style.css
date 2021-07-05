@@ -10164,7 +10164,7 @@ h4 a{
 .project-block-three .inner-box{
   position: relative;
   display: block;
-  margin-bottom: 180px;
+  margin-bottom: 50px;
 }
 
 .project-block-three .inner-box .image-box{
@@ -13057,5 +13057,19 @@ h4 a{
   font-weight: 600;
 }
 
+.box1{
+  min-height: 410px;
+}
 
+.box2{
+  min-height: 470px;
+}
 
+@media only screen and (max-width: 770px){
+  .box1 {
+    min-height: 210px;
+}
+.box2 {
+  min-height: 230px;
+}
+}
